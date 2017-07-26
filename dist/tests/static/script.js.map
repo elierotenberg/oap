@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../src/tests/static/script.js"],"names":["window","__TEST__GLOBAL__"],"mappings":";;AAAAA,OAAOC,gBAAP,GAA0B,kBAA1B","file":"script.js","sourcesContent":["window.__TEST__GLOBAL__ = '__TEST__GLOBAL__';\n"]}
